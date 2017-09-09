@@ -10,7 +10,7 @@
     """,
 
     'author': "Supercoop",
-    'website': "http://www.odoo.yenthevg.com",
+    'website': "https://github.com/supercoopbdx/sp_pos_invoice",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
